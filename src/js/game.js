@@ -71,7 +71,7 @@
     
     create: function () {
       this.advancedTiming = true;
-      //this.add.audio('song1').play();
+      this.add.audio('song1').play();
       startTime = this.time.now;
       console.log('start time is ' + startTime.toString());
       

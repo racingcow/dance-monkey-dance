@@ -19,7 +19,7 @@
 
     loadResources: function () {
       // load your assets here
-      //this.game.load.audio('song1', ['assets/audio/bossfight_flirt-flirt-oh-it-hurts.aac', 'assets/audio/bossfight_flirt-flirt-oh-it-hurts.mp3']);
+      this.game.load.audio('song1', ['assets/songs/Itty Bitty 8 Bit.mp3']);
       this.game.load.image('monkey', 'assets/sprite/monkey.png');
     },
 
